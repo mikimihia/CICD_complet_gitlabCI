@@ -9,6 +9,7 @@ ouverture du port 1993 afin de récupérer l'adresse ip dans l'environnement eaz
 configuration de la variable IMAGE_NAME dans Gitlab CI
 ![Capture d’écran (35)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/d907a85b-2daf-4871-bc66-a62e60a53877)
 exécution du pipeline CICD Gitlab CI
+![Capture d’écran (37)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/be822280-1266-4453-afb6-bc115e758d5b)
 ![Capture d’écran (51)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/3a8788eb-bbba-4810-8567-c5bf3b1cc915)
 visualisation apès exécution de notre pipeline CICD Gitlab CI
 ![Capture d’écran (38)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/56cf7cbc-f0d9-48dd-a763-3ba8eb0a3836)
