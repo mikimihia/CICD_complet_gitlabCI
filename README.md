@@ -16,9 +16,9 @@ visualisation dans l'environnement eazylabs
 ![Capture d’écran (39)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/b3d05572-a50f-4a3c-bf36-4e240972e07c)
 Environnemlent de staging et de prod pour déployer l'application
 ![Capture d’écran (48)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/17d2b446-403a-4062-b563-7b3e40eb6043)
-Déploiement de l'appl e ication dans l'environnement de staging 
+Déploiement de l'application dans l'environnement de staging 
 ![Capture d’écran (49)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/eb29638b-fce7-4729-b25f-cf939ed9a184)
-Déploiement de l'appl e ication dans l'environnement de prod
+Déploiement de l'application dans l'environnement de prod
 ![Capture d’écran (50)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/3e629c37-fcdf-462a-9f56-65c26a768cc1)
 Visualisation du Log de notre pipeline CICD stage build
 ![Capture d’écran (41)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/e173add3-20c1-4e56-a0ee-33ff3b60ed18)
