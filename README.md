@@ -1,5 +1,7 @@
 # projet_Gitlab_CICD :
-le Dockerfile permet de packager notre application tout simplement 
+
+le Dockerfile permet de packager notre application tout simplement
+
 l'objectif est de mettre en place un pipelice CICD avec Gitlab CI et on utilise l'environnement eazylabs pour déployer 
 ![Capture d’écran (40)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/f614f490-cc46-4dbf-8912-8ef5e4e0a15f)
 ouverture du port 1993 afin de récupérer l'adresse ip dans l'environnement eazylabs
