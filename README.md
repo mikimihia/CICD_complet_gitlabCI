@@ -13,6 +13,7 @@ exécution du pipeline CICD Gitlab CI
 ![Capture d’écran (51)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/3a8788eb-bbba-4810-8567-c5bf3b1cc915)
 visualisation apès exécution de notre pipeline CICD Gitlab CI
 ![Capture d’écran (38)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/56cf7cbc-f0d9-48dd-a763-3ba8eb0a3836)
+![Capture d’écran (52)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/38429697-d67c-46ef-a40a-954b15a8be86)
 visualisation dans eazylabs
 ![Capture d’écran (39)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/b3d05572-a50f-4a3c-bf36-4e240972e07c)
 Environnemlent de staging/preprod et de prod pour déployer l'application
