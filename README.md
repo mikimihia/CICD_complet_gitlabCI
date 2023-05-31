@@ -19,8 +19,7 @@ Visualisation du Log de notre pipeline CICD stage release image
 ![Capture d’écran (43)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/e3e976cc-0b8f-41cb-b6b8-2390d60aa232)
 Visualisation du Log de notre pipeline CICD stage deploy staging
 ![Capture d’écran (44)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/2e777576-8079-4d72-8c29-b4fa2a8da29b)
-Visualisation du Log de notre pipeline CICD stage test staging
-![Capture d’écran (45)](https://github.com/mikimihia/CICD_complet_gitlabCI/assets/44511981/cca217ec-512a-4dd8-b294-e85af59dca3f)
+
 
 
 
